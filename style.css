@@ -1,9 +1,56 @@
 body{
-    font-family: 'Poppins', sans-serif;   
+    font-family: 'Poppins', sans-serif; 
+    margin: 5%;  
 }
 h1{
     font-size: 50px;
 }
-    .orange-color{
+.orange-color{
         color: orange;
-    }
+}
+.boder{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange,tomato);
+    border-image-slice: 1;
+}
+section{
+    display: flex;
+}
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(orange,tomato);
+        padding: 10px 40px;
+        color: white;
+        font-weight: 700;
+        border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 60%;
+}
+.half-center{
+    text-align: center;
+}
+.area{
+    background-color: paleturquoise;
+    margin-left: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 40px;
+}
+.vission{
+    background-color: peachpuff;
+    margin-left: 5%;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 40px;
+}
+.mission{
+    background-color: pink;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 40px;
+}  
+
