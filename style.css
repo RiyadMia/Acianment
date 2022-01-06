@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif; 
-    margin: 10%;  
+    margin: 5%;  
 }
 h1{
     font-size: 50px;
@@ -63,13 +63,17 @@ background-position: left;
 }
 .image{
     width: 60%; 
+    padding: 30px;
 }  
 .margin-left{
-    margin-left: 2%;
+    margin-right: 15%;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: bottom;
-    background-size: 250px;
+    background-size: 200px;
+}
+.top{
+    margin-right: 20%;
 }
 footer{
     font-style: italic;
