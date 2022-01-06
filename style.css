@@ -62,8 +62,15 @@ background-size: 150px;
 background-position: left;
 }
 .image{
-    width: 80%; 
+    width: 60%; 
 }  
+.margin-left{
+    margin-left: 2%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 250px;
+}
 footer{
     font-style: italic;
     text-align: center;
