@@ -1,17 +1,21 @@
 body{
     font-family: 'Poppins', sans-serif; 
-    margin: 5%;  
+    margin: 10%;  
 }
 h1{
-    font-size: 50px;
+    font-size: 50px;border-radius: 5%;
 }
 .orange-color{
         color: orange;
 }
-.boder{
+.boder-left{
     border-left: 7px solid;
     border-image: linear-gradient(orange,tomato);
     border-image-slice: 1;
+    border-radius: 5%;
+}
+.half-left{
+    margin-left: 6%;
 }
 section{
     display: flex;
@@ -34,46 +38,37 @@ section{
     text-align: center;
 }
 .area{
+    width: 30%;
     background-color: paleturquoise;
-    margin-left: 5%;
+    margin-left: 10%;
     padding-left: 15px;
-    padding-right: 15px;
-    border-radius: 40px;
+    padding-right: 10px;
+    border-radius: 30px;
 }
 .vission{
+    width: 30%;
     background-color: peachpuff;
-    margin-left: 5%;
+    margin-left: 10%;
     padding-left: 15px;
     padding-right: 15px;
     border-radius: 40px;
 }
 .mission{
+    width: 30%;
     background-color: pink;
     padding-right: 15px;
     padding-left: 15px;
     border-radius: 40px;
 }  
-.photo{
-    width: 70%;
- padding: 60px;
-background-image: url(images/shapes/shape-1.png);
-background-repeat: no-repeat;
-background-size: 150px;
-background-position: left;
-}
 .image{
-    width: 60%; 
+    width: 80%; 
     padding: 30px;
-}  
-.margin-left{
-    margin-right: 15%;
-    background-image: url(images/shapes/shape-1.png);
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-size: 200px;
+    margin-left: 30%;
 }
-.top{
-    margin-right: 20%;
+ .photo{
+    width: 70%; 
+    padding: 30px;
+    margin-right:20%;
 }
 footer{
     font-style: italic;
