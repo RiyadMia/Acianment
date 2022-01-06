@@ -40,7 +40,7 @@ section{
 .area{
     width: 30%;
     background-color: paleturquoise;
-    margin-left: 10%;
+    margin-left: 5%;
     padding-left: 15px;
     padding-right: 10px;
     border-radius: 30px;
@@ -48,7 +48,7 @@ section{
 .vission{
     width: 30%;
     background-color: peachpuff;
-    margin-left: 10%;
+    margin-left: 5%;
     padding-left: 15px;
     padding-right: 15px;
     border-radius: 40px;
@@ -68,7 +68,7 @@ section{
  .photo{
     width: 70%; 
     padding: 30px;
-    margin-right:20%;
+    margin-right: 50%;
 }
 footer{
     font-style: italic;
