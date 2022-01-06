@@ -72,6 +72,18 @@ footer{
 .width-color{
     color: orange;
 }
+#center{
+    text-align: center;
+}
+.text{
+    color: orangered;
+}
+.with{
+    color: peru;
+}
+.left{
+    margin-left: 5%;
+}
  
  
  
