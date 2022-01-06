@@ -28,6 +28,9 @@ section{
         font-weight: 700;
         border-radius: 5px;
 }
+.margin{
+    margin-top: 8%;
+}
 .half-width{
     width: 50%;
 }
@@ -70,10 +73,14 @@ section{
     padding: 30px;
     margin-right: 50%;
 }
+.margin-button{
+    margin-top: 10%;
+}
 footer{
     font-style: italic;
     text-align: center;
-    background-color: rgb(184, 75, 126);
+    background-color: rgb(12, 11, 11);
+    color: white;
 }
 .width-color{
     color: orange;
@@ -92,6 +99,3 @@ footer{
 }
  
  
- 
- 
-
