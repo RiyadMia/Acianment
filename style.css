@@ -34,6 +34,10 @@ section{
 .half-width{
     width: 50%;
 }
+.image-left{
+    margin-top: 10%;
+    margin-left: 40%;
+}
 .half-width img{
     width: 60%;
 }
